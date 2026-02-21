@@ -1,11 +1,54 @@
-1 fun ban bun can
+- 1 
+fun ban bun can
 
-1 run ran fast
+- ban: 4
 
-1 bunnie sitting in the bush
+- 1 
+run ran fast
 
-2 clara u coralla ukrala klarnet
+- ran: 2
 
-1 huggie buggie buggies
+- 1 
+bunnie sitting in the bush
 
-2 test tests test teste
+- 
+
+- 2 
+clara u coralla ukrala klarnet
+
+- 
+
+- 1 
+huggie buggie buggies
+
+- buggie: 3
+
+- 2 
+test tests test teste
+
+- test: 4
+
+- 1
+test tests test teste
+
+- test: 4
+
+- 1
+tort court torte
+
+- 
+
+- 2
+tort court torte
+
+- tort: 2
+
+- 1
+run ran running as fast
+as you suck duck 
+my hair is dair
+mick micke with dight
+
+- duck: 2
+mick: 2
+ran: 2
